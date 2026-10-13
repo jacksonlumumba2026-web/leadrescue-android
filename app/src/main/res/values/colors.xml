@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_ink">#0A1F1A</color>
+    <color name="brand_emerald">#0E7C66</color>
+    <color name="brand_gold">#F2B441</color>
+    <color name="window_light">#F5F7F4</color>
+    <color name="window_dark">#0B1311</color>
+</resources>

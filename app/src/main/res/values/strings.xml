@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LeadRescue</string>
+    <string name="channel_followups_name">Follow-up reminders</string>
+    <string name="channel_followups_description">Reminders to follow up with your leads</string>
+</resources>
